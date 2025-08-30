@@ -1,4 +1,4 @@
-# 👋 Hey, It's me Rachid
+# 👋 Welcome to my profile !
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&lines=💻+Cybersecurity+Student;⚡+Fullstack+Developer;🛡️+Future+Cyber+Engineer;🚀+Always+Learning)](https://git.io/typing-svg)
 
